@@ -1,0 +1,1 @@
+![Pedro Cavalari GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pedrocavalari&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=6)
